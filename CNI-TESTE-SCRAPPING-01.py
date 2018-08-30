@@ -30,7 +30,7 @@
 #We will end up with a dict that will look like this:
 payload = {
         "username": "wpessoa", 
-        "password": "Lucidalba210", 
+        "password": "minhaSenha", 
         "csrfmiddlewaretoken": "MUJqngly4mnAOgNeL5yG2pfJqPOZV6y9" #QpOWOxyPsDYkJaSIzCwQ9bjF5vE0x5Tz ou ihEosY6OF4jiAEtw1qwVVaHlPMsVz1jo
 }
 
